@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="meals">ALaCarte</string>
+    <string-array name="meals">
+        <item>Beef</item>
+        <item>Chicken</item>
+        <item>Egg</item>
+        <item>Pork</item>
+        <item>Salmon</item>
+        <item>Tofu</item>
+        <item>Tuna</item>
+        <item>Turkey</item>
+        <item>Vegan</item>
+    </string-array>
+
+    <string name="app_name">ALaCarte</string>
+    <string name="welcome_to_a_la_carte">Welcome To A La Carte</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">logout</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="search">search</string>
+    <string name="sold_out">Sold Out :(</string>
+    <string name="cancel_order">cancel order</string>
+    <string name="you_are_an_admin">You are an Admin</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="welcome">Welcome</string>
+    <string name="admin">admin</string>
+    <string name="add_item_to_cart">add item to cart</string>
+    <string name="add_item">add item</string>
+    <string name="no_items_in_store">No Items In Store.</string>
+    <string name="no_users_at_store" />
+    <string name="no_users" />
+    <string name="no_items" />
+</resources>
